@@ -5,9 +5,9 @@ def part1():
         line = l.strip()
         print(line)
 
+part1()
+
 def part2():
     for l in f:
         line = l.strip()
         print(line)
-
-part1()
